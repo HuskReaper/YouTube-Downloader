@@ -1,2 +1,2 @@
-# YouTuve-Downloader
+# YouTube-Downloader
 Simple YouTube Downloader using Python.
